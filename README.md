@@ -1,9 +1,5 @@
 ### Hello, World! I am Gabriel👋
 
-<p align="center">
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@80a48b3e-9938-4fe3-b26d-265d8835f5a9/990ab15b-2d03-46fd-9348-8dc099dc7384.png" /></a>
-</p>
-
 <!--
 **gabrielsousapro/gabrielsousapro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
